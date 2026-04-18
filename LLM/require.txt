@@ -1,0 +1,14 @@
+monai
+tensorboard
+six
+timm
+matplotlib
+scikit-learn
+batchgenerators
+bert_embedding
+SimpleITK
+nibabel
+#transformers==4.31.0
+
+#unzip transformer
+# pip install .
